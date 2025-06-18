@@ -1,3 +1,10 @@
+## Team Status Board made for CD Technology deployed locally to update status of team members to be be displayed on lobby screen to easily see who is where. Also available to check through mobile webpage.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
