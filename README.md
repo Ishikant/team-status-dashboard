@@ -1,5 +1,5 @@
 ## Team Status Board made for CD Technology deployed locally to update status of team members to be be displayed on lobby screen to easily see who is where. Also available to check through mobile webpage.
-
+Made with React, Bootstrap, CSS and Socket.io for backend.
 
 
 
